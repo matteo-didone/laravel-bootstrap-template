@@ -14,7 +14,7 @@
         @yield('main-section')
     </main>
 
-    @vite('resources/js/app.js');
+    @vite('resources/js/app.js')
 </body> 
 
 </html>
